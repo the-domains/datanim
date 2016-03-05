@@ -1,6 +1,6 @@
 name: Datanim
 favicon: null
-layout_spectrum: 0.2106383
+layout_spectrum: 0.26665
 typography_spectrum: 0.9085106
 title: Datanim
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4319277
+  brandStrength: 0.75
   lightness: 0.3148936
   saturation: 0.288167
-  rhythmicContrast: 0.0228575
+  rhythmicContrast: 0.5
 purpose: []
