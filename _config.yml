@@ -1,14 +1,29 @@
+name: Datanim
+favicon: null
 layout_spectrum: 0.2106383
+typography_spectrum: 0.9085106
+title: Datanim
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.288167
-  brandStrength: 0.4319277
-  lightness: 0.3148936
-  rhythmicContrast: 0.0228575
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-typography_spectrum: 0.9085106
-name: Datanim
+  brandStrength: 0.4319277
+  lightness: 0.3148936
+  saturation: 0.288167
+  rhythmicContrast: 0.0228575
+purpose: []
